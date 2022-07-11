@@ -21,7 +21,7 @@ Ter o driver PyMySQL instalado. Caso não tenha, instale através do comando via
 
 Ter a biblioteca e ORM SQLAlchemy instalada. Caso não tenha, instale através do comando via terminal:
 
-###pip install SQLAlchemy
+### pip install SQLAlchemy
 
 Com todos os requisitos satisfeitos, precisará importar o banco de dados para o MySQL Workbench.
 
