@@ -49,7 +49,7 @@ O código foi dividido em pastas:
 classes: onde estão todas as classes que manipulam o banco de dados;
 configuracoes: onde está a conexão com a ORM SQLAlchemy;
 
-###NÃO SE ESQUEÇA DE TROCAR O USUÁRIO E A SENHA PARA CONECTAR AO BANCO DE DADOS!
+### NÃO SE ESQUEÇA DE TROCAR O USUÁRIO E A SENHA PARA CONECTAR AO BANCO DE DADOS!
 
 Troque o root pelo seu usuário e 12345 pela sua senha MySQL.
 Caso necessário, troque a porta do localhost.
