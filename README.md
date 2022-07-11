@@ -8,16 +8,20 @@ Para este projeto, usamos a ORM SQLAlchemy para Python, e o banco de dados feito
 
 
 Ter o Python 3.10 instalado. Caso não tenha, link para download:
+
 https://www.python.org/downloads/
 
 Ter o MySQL Workbench instalado. Caso não tenha, link para download:
+
 https://dev.mysql.com/downloads/workbench/
 
 Ter o driver PyMySQL instalado. Caso não tenha, instale através do comando via terminal:
-pip install PyMySQL
+
+### pip install PyMySQL
 
 Ter a biblioteca e ORM SQLAlchemy instalada. Caso não tenha, instale através do comando via terminal:
-pip install SQLAlchemy
+
+###pip install SQLAlchemy
 
 Com todos os requisitos satisfeitos, precisará importar o banco de dados para o MySQL Workbench.
 
