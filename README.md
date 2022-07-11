@@ -1,6 +1,10 @@
 # Loja-Materiais-de-Construcao-Banco-de-Dados
 
 
+Desenvolvedores:
+  Gustavo Xavier - gustavohsx07@gmail.com
+  Joao Victor - jjvbsilva@hotmail.com
+
 Para este projeto, usamos a ORM SQLAlchemy para Python, e o banco de dados feito usando o MySQL Workbench.
 
 
